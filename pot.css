@@ -1,0 +1,13 @@
+.logo{
+	height: 35px;
+}
+.jumbotron{
+	background-image: url(images/8.jpeg);
+	background-repeat: no-repeat;
+	background-size: 1200px;
+	height: 400px;
+
+}
+footer{
+	background-color: grey;
+}

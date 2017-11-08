@@ -9,5 +9,11 @@
 
 }
 footer{
-	background-color: grey;
+	background-color: green;
+}
+.con{
+	background: orange;
+}
+body{
+	background: grey;
 }

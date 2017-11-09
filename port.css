@@ -1,0 +1,93 @@
+	#home span{
+	      		color: gold;
+
+	      	}
+	      	#home h1{
+	      		font-size: 50px;
+	      	}
+
+	      	#home p{
+	      		  font-size: 20px;
+	      	}
+
+	      	#home{
+	      		background-image: url(images/horse.jpg);
+	      		padding: 20%;
+	      		background-size: cover;
+	      		background-repeat: no-repeat;
+	      		background-attachment: fixed;
+
+	      	}
+
+	      	#home a{
+	      		background-color: orange;
+	      		color: white;
+	      		padding: 2%;
+	      		
+	      	}
+
+
+      	#christianity{
+	      		 padding-top: 5%;
+	      		 padding-bottom: 8%;
+	      		 padding-right: 3%;
+	      		 padding-left: 3%;
+	      	}
+
+
+
+	      	#christianity hr{
+	      		border: solid green;
+	      		width: 10%;
+	      	}
+        
+        #christianity h1{
+          
+    background-color: red;
+    background-color:  cover;
+  
+        }
+  
+  
+#hope{
+          padding-top: 5%;
+
+           padding-bottom: 10%;
+             padding-right: 3%;
+             padding-left: 3%;
+             background-color: orange;
+}
+
+#contact{
+  padding-top: 5%;
+   padding-bottom: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
+
+    background-image: url(images/b1.jpeg);
+     padding: 5%;
+      background-repeat: no-repeat;
+     background-size: cover;
+     background-color: b;
+}
+
+  #home{
+
+      background-image: url(images/c2.jpeg);
+      padding: 23%;
+      background-repeat: no-repeat;
+     background-size: cover;
+  }
+
+  #services img{
+     background-repeat: no-repeat;
+     background-size: cover;
+     border-radius: rounded;
+  }
+
+
+  #footer {
+      background-color:green ;
+    color: white;
+    padding: 30px;
+  }
